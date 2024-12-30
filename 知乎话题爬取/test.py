@@ -29,15 +29,6 @@ ser = Service(
 
 # 一个鼠标随机小幅度移动的函数
 def cheat_mouse():
-    # times = random.randint(1, 5)
-    # for i in range(times):
-    #     duration = random.randint(100, 500)
-    #     x = random.randint(-50, 50)
-    #     y = random.randint(-50, 50)
-    #     action = ActionChains(chrome, duration=duration)
-    #     try:
-    #         action.move_by_offset(x, y).pause(0.15).perform()
-    #     except:
     pass
 
 
